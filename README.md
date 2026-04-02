@@ -24,9 +24,9 @@ And get structured answers with:
 - Commands
 
 ---
-<img src="https://github.com/bhuvan-raj/Kubernetes-RAG-Assistant/blob/main/assets/ss1.jpg" alt="Banner" />
-<img src="https://github.com/bhuvan-raj/Kubernetes-RAG-Assistant/blob/main/assets/ss2.jpg" alt="Banner" />
-<img src="https://github.com/bhuvan-raj/Kubernetes-RAG-Assistant/blob/main/assets/ss3.jpg" alt="Banner" />
+<img src="https://github.com/bhuvan-raj/Kubernetes-RAG-Assistant/blob/main/assets/ss1.png" alt="Banner" />
+<img src="https://github.com/bhuvan-raj/Kubernetes-RAG-Assistant/blob/main/assets/ss2.png" alt="Banner" />
+<img src="https://github.com/bhuvan-raj/Kubernetes-RAG-Assistant/blob/main/assets/ss3.png" alt="Banner" />
 
 
 ## 🧠 LLM Used
