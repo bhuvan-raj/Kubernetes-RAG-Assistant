@@ -1,0 +1,5 @@
+Error: CrashLoopBackOff
+Container failed due to invalid database connection string.
+Retrying connection...
+Memory usage exceeded limit.
+Pod restarted multiple times.

@@ -1,0 +1,44 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+bin/
+lib/
+lib64/
+include/
+pyvenv.cfg
+
+# Environment variables
+.env
+
+# Vector DB (can be regenerated)
+vector_db/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build files
+dist/
+build/
+*.egg-info/
+
+# Temporary files
+*.tmp
+*.swp
