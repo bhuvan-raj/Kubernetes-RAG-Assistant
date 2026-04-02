@@ -183,9 +183,7 @@ kubectl describe pod <pod>
 
 ## 📜 License
 
-MIT License
-
-````
+[MIT License](./LICENSE)
 
 ---
 
